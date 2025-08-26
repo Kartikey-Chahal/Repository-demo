@@ -1,5 +1,5 @@
 # Repository-demo
 This is my first repo 
 <br>
-Author - Kartikey (collage)
+Author - Kartikey Chahal
  
